@@ -9,5 +9,5 @@ I am **Areeba Moosa**, a Computer Science student with a passion for becoming a 
 - 👯 I’m looking to collaborate on computer science projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: areebamoosa153@gmail.com
-- ⚡ Hobbies: Photography, Coding, Reading & Enjoying with Friedns 
+- ⚡ Hobbies: Photography, Coding, Reading & Enjoying with friends. 
 
