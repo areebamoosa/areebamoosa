@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I am Areeba 👋
 
-<!--
-**areebamoosa/areebamoosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am **Areeba Moosa**, a Computer Science student with a passion for becoming a software engineer. Currently, I am learning and working with the C language to build a strong foundation in programming and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A Bit About me: 
+
+- 🌱 I’m currently studying computer science and information technology at NED University of Engineering & Technology.
+- 👯 I’m looking to collaborate on computer science projects.
+- 💬 Ask me about anything!
+- 📫 How to reach me: areebamoosa153@gmail.com
+- ⚡ Hobbies: Photography, Coding, Reading & Enjoying with Friedns 
+
