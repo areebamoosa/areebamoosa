@@ -1,13 +1,13 @@
-## Hi, I am Areeba 👋
+## Hi, I am Areeba Moosa 👋
+
+A Computer Science student with a strong interest in becoming a **Software Engineer** and potentially growing into a **Full Stack Developer**. Currenntly I have completed foundational work in **HTML** and **CSS** and I’m excited to explore and learn whatever technologies are necessary to thrive in this journey.
+
+### A Bit About Me: 
+
+- 🌱 I’m currently studying Computer Science and Information Technology at **NED University of Engineering & Technology**.  
+- 👯 I’m looking to collaborate on computer science projects.  
+- 💬 Ask me about anything!  
+- 📫 How to reach me: **areebamoosa153@gmail.com**  
 
 
-I am **Areeba Moosa**, a Computer Science student with a passion for becoming a software engineer. Currently, I am learning and working with the C language to build a strong foundation in programming and problem-solving.
-
-### A Bit About me: 
-
-- 🌱 I’m currently studying computer science and information technology at NED University of Engineering & Technology.
-- 👯 I’m looking to collaborate on computer science projects.
-- 💬 Ask me about anything!
-- 📫 How to reach me: areebamoosa153@gmail.com
-- ⚡ Hobbies: Photography, Coding, Reading & Enjoying with friends. 
 
