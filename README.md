@@ -1,6 +1,6 @@
 ## Hi, I am Areeba Moosa 👋
 
-A Computer Science student with a strong interest in becoming a **Software Engineer** and potentially growing into a **Full Stack Developer**. Currenntly I have completed foundational work in **HTML** and **CSS** and I’m excited to explore and learn whatever technologies are necessary to thrive in this journey.
+A Computer Science student with a strong interest in becoming a **Software Engineer** and potentially growing into a **Full Stack Developer**. Currently I have completed foundational work in **HTML** and **CSS** and I’m excited to explore and learn whatever technologies are necessary to thrive in this journey.
 
 ### A Bit About Me: 
 
