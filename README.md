@@ -4,7 +4,7 @@ A Computer Science student with a strong interest in becoming a **Software Engin
 
 ### A Bit About Me: 
 
-- 🌱 I’m currently studying Computer Science and Information Technology at **NED University of Engineering & Technology**.  
+- 👩🏻‍💻 I’m currently studying Computer Science and Information Technology at **NED University of Engineering & Technology**.  
 - 👯 I’m looking to collaborate on computer science projects.  
 - 💬 Ask me about anything!  
 - 📫 How to reach me: **areebamoosa153@gmail.com**  
