@@ -23,15 +23,15 @@
   </p>
 
 <div align="left" >
-  <p align="left" style="font-size: 20px; font-weight: 600; margin-bottom: 10px;">Outside of code:</p>
+  <p align="left" style="font-size: 20px; font-weight: 900; margin-bottom: 10px;">Outside of code:</p>
 
-  <p style="margin: 10px 0;">📸 I have a passion for <strong>photography</strong> — capturing moments is my creative escape.</p>
-  <p style="margin: 10px 0;">🌍 I also love to do Open Source contribution in my free time .</p>
-  <p style="margin: 10px 0;">☕ I can't survive without a <strong>cup of tea</strong> — it fuels both my mornings and my ideas.</p>
+  - <p style="margin: 10px 0;">📸 I enjoy <strong>photography</strong> — it helps me slow down and notice details beyond code.</p>
+  - <p style="margin: 10px 0;">🌍 I also love to do Open Source contribution in my free time.</p>
+  - <p style="margin: 10px 0;">☕ I can't survive without a <strong>cup of tea</strong> — it fuels both my mornings and my ideas.</p>
 
 </div>
 
-<br>
+
 <br>
 <p><strong> Let's connect! </strong><br>
 
