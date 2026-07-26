@@ -5,7 +5,7 @@
   </h2>
 
   <p style="font-size: 18px;">
-    I’m <a href="https://www.linkedin.com/in/areebamoosa" target="_blank" rel="noopener noreferrer"><strong>Areeba Moosa</strong></a>, a Frontend Web Developer based in Pakistan.
+    I’m <a href="https://www.linkedin.com/in/areebamoosa" target="_blank" rel="noopener noreferrer"><strong>Areeba Moosa</strong></a>, a Frontend Developer based in Pakistan.
   </p>
 
   <p>
@@ -25,27 +25,22 @@
 <div align="left" >
   <p align="left" style="font-size: 20px; font-weight: 900; margin-bottom: 10px;">Outside of code:</p>
 
-  - <p style="margin: 10px 0;">📸 I enjoy <strong>photography</strong> — it helps me slow down and notice details beyond code.</p>
-  - <p style="margin: 10px 0;">🌍 I also love to do Open Source contribution in my free time.</p>
-  - <p style="margin: 10px 0;">☕ I can't survive without a <strong>cup of tea</strong> — it fuels both my mornings and my ideas.</p>
+- <p style="margin: 10px 0;">📸 I have a habit of pulling out my phone to capture <strong>random moments</strong>, it helps me notice details beyond code.</p>
+- <p style="margin: 10px 0;">🌍 I enjoy contributing to <strong>Open Source</strong>, reading others code has taught me more than any tutorial ever did.</p>
+- <p style="margin: 10px 0;">☕ I can't survive without a <strong>cup of tea</strong>, it fuels both my mornings and my ideas.</p>
 
 </div>
 
+  <br>
 
-<br>
-<p><strong> Let's connect! </strong><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/areebamoosa/">
-    <img title="Follow me on LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:areebamoosa153@gmail.com">
-    <img title="Email me on Gmail" 
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
+  <p align="center">
+    <strong>Let's connect!</strong>
+    <br><br>
+    <a href="https://www.linkedin.com/in/areebamoosa/"><img title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/areebamoosa"><img title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    &nbsp;&nbsp;
+    <a href="mailto:areebamoosa.am@gmail.com"><img title="Email me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
 
 </div>
