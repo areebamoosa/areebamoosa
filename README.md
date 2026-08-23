@@ -5,7 +5,7 @@
   </h2>
 
   <p style="font-size: 18px;">
-    I’m <a href="https://www.linkedin.com/in/areebamoosa" target="_blank" rel="noopener noreferrer"><strong>Areeba Moosa</strong></a>, a Frontend Developer based in Pakistan.
+    I’m <a href="https://www.linkedin.com/in/areebamoosa" target="_blank" rel="noopener noreferrer"><strong>Areeba Moosa</strong></a>, a Full Stack Developer based in Pakistan.
   </p>
 
   <p>
